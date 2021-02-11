@@ -1,5 +1,8 @@
 # reability
 
+svgを入力した内容で画像でダウンロードできるコンポーネントです。
+svgのimageタグをcanvasでダウンロードすることができなかったため、一度canvas化しています。
+
 ## Build Setup
 
 ```bash
